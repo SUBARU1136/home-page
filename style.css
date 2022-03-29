@@ -1,0 +1,44 @@
+body{
+background-color:#f5f0c7;
+font-size:28px;
+color:#000000;
+}
+#container{
+width:1800px;
+}
+#header{
+height:423px;
+background-image:url(img/bg_header.png);
+}
+#menu{
+width:400px;
+float:left;
+}
+#content{
+width:1400px;
+float:right;
+background-color:#f5f0ec;
+margin-top:14px;
+}
+#header h1{
+padding-left:100px;
+}
+#menu ul{
+list-style-type:none;
+margin:0px;
+padding:0px;
+}
+#menu li{
+border-style:solid;
+border-width:1px;
+border-color:#ffff8a;
+padding:10px 10px 10px 6px;
+background-color:#f5f0ec;
+margin-top:14px;
+margin-right:14px;
+}
+#schedule{
+background-color:#f5f0ec;
+margin-right:14px;
+}
+
